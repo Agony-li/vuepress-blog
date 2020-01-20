@@ -17,6 +17,9 @@ module.exports = [
       '/web/js/notes/ES6新特性/5、数组的扩展',
       '/web/js/notes/ES6新特性/6、函数的扩展',
       '/web/js/notes/ES6新特性/7、对象的拓展',
+      '/web/js/notes/ES6新特性/8、Symbol和Symbol属性',
+      '/web/js/notes/ES6新特性/10、Set和Map的数据结构',
+      '/web/js/notes/ES6新特性/13、Promise对象',
     ]
   }
 ] 
