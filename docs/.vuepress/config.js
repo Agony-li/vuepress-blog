@@ -1,6 +1,6 @@
 module.exports = {
   title: '王者峡谷',
-  description: 'There Is No Limit To Learning',
+  description: '人生要有目标',
   // dest: './dist', // 默认在 .vuepress下
   port: '8080',
   head: [
