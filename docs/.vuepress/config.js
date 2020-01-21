@@ -1,7 +1,7 @@
 module.exports = {
   title: '王者峡谷',
   description: '人生要有目标',
-  // dest: './dist', // 默认在 .vuepress下
+  dest: './dist', // 默认在 .vuepress下
   port: '8080',
   head: [
     ['link', {rel: 'icon', href: '/img/logo.jpg'}],
