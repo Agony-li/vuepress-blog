@@ -30,7 +30,7 @@ module.exports = [
     text: '微信端',
     items: [
       { text: '公众号', link: ''},
-      { text: '小程序', link: ''},
+      { text: '小程序', link: '/miniapp/'},
     ]
   },
   {
