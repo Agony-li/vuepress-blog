@@ -14,7 +14,7 @@ module.exports = [
       {
         text: '前端框架',
         items: [
-          { text: 'Vue.js', link: '' },
+          { text: 'Vue.js', link: '/vue/' },
           { text: 'React', link: '' },
         ]
       },
@@ -50,7 +50,7 @@ module.exports = [
   {
     text: '站外链接',
     items: [
-      { text: 'Echarts官网', link: 'https://www.echartsjs.com/zh/index.html' },
+      { text: 'Echarts官网', link: 'https://echarts.apache.org/zh/index.html' },
       {
         text: 'UI组件库',
         items: [

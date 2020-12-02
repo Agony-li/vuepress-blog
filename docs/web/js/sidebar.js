@@ -7,6 +7,13 @@ module.exports = [
     ]
   },
   {
+    title: 'JS深拷贝',
+    collapsable: true, // 是否可以折叠
+    children: [
+      '/web/js/notes/JS深拷贝',
+    ]
+  },
+  {
     title: 'ES6新特性',
     collapsable: true, // 是否可以折叠
     children: [
